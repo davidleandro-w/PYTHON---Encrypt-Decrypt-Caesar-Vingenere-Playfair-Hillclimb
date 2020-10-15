@@ -26,6 +26,6 @@ Can be used in various forms of alphabetic text and not as numbers. symbols acce
  - Hillclimb Encryption
  - Hillclimb Decryption
 
-License
+Oke ?
 ----
 davidleandro-w
