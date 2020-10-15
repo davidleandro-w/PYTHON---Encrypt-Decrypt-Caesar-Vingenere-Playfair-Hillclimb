@@ -6,7 +6,7 @@ Make sure you have python version 3.8 or above.
 - if you want to run the program, just open main.py file.
 - to modify the text or key, use texteditor and replace the variable text or key in main.py.
 
-##Rule
+## Rule
 #### - Caesar
 Can be used in various forms of alphabetic text and not as numbers. symbols accepted only (spaces),. () and you can add it yourself to the program. The key used is an integer.
 ### - Vingenere
